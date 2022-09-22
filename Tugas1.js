@@ -17,6 +17,7 @@ const skills = {
 
 console.log(nama);
 console.log(age);
+console.log(hobbies[0]);
 console.log(IsMarried);
 console.log(`${schoolList.sekolah} yearIn ${schoolList.yearIn} - yearOut ${schoolList.yearOut} ${schoolList.major}`);
 console.log(`skillName ${skills.skillName} ${skills.level[1]}`);
