@@ -20,4 +20,4 @@ console.log(age);
 console.log(hobbies[0]);
 console.log(IsMarried);
 console.log(`${schoolList.sekolah} yearIn ${schoolList.yearIn} - yearOut ${schoolList.yearOut} ${schoolList.major}`);
-console.log(`skillName ${skills.skillName} ${skills.level[1]}`);
+console.log(`${skills.skillName} ${skills.level[1]}`);
